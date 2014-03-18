@@ -1,0 +1,41 @@
+---
+layout: dataset
+title: dump.deform0.9_tilt6l
+description: []
+aggregate:
+- name: dump.deform0.9_tilt6l_1
+  native: dump.deform0.9_tilt6l_1
+  description: []
+  output:
+  - {native: step, value: 2.6E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -13.159}
+  - {native: Xhi, value: 13.159}
+  - {native: Ylo, value: -13.159}
+  - {native: Yhi, value: 13.159}
+  - {native: Zlo, value: -152.279}
+  - {native: Zhi, value: 152.279}
+  - {native: Volume, value: 210948.17721119203}
+spatial:
+- name: dump.deform0.9_tilt6l_1
+  native: dump.deform0.9_tilt6l_1
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+  location: https://dl.dropboxusercontent.com/u/22455492/Polymer/pe400tilt6l/dump.deform0.9_tilt6l
+  viz:
+  - url: http://farm8.staticflickr.com/7329/13249692724_1db2658090_z.jpg
+    name: []
+  - url: http://farm8.staticflickr.com/7361/13249495943_5718de5aaa_z.jpg
+    name: []
+  - url: http://farm3.staticflickr.com/2856/13249354255_2d049ea2d0_z.jpg
+    name: []
+  - url: http://farm4.staticflickr.com/3831/13249496983_3ae23f7bd6_z.jpg
+    name: []
+dict: polyer-md-sim
+---
