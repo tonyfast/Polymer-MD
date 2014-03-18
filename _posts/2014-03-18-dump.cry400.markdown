@@ -29,13 +29,13 @@ spatial:
   - {native: Z}
   location: https://dl.dropboxusercontent.com/u/22455492/Polymer/Single chain crystallization/dump.cry400
   viz:
-  - url: FIGURES/dump.cry400_1_1.png
+  - url: http://farm4.staticflickr.com/3668/13249228945_453c751b61_z.jpg
     name: []
-  - url: FIGURES/dump.cry400_1_2.png
+  - url: http://farm3.staticflickr.com/2874/13249372283_473089bc37_z.jpg
     name: []
-  - url: FIGURES/dump.cry400_1_3.png
+  - url: http://farm8.staticflickr.com/7363/13249229715_1b8c11a016_z.jpg
     name: []
-  - url: FIGURES/dump.cry400_1_4.png
+  - url: http://farm8.staticflickr.com/7422/13249230075_48187f086a_z.jpg
     name: []
 dict: polyer-md-sim
 ---
