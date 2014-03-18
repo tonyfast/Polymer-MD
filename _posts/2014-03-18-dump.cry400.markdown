@@ -1,0 +1,41 @@
+---
+layout: dataset
+title: dump.cry400
+description: []
+aggregate:
+- name: dump.cry400_1
+  native: dump.cry400_1
+  description: []
+  output:
+  - {native: step, value: 1.6E7}
+  - {native: natom, value: 399.0}
+  - {native: Xlo, value: -120.367}
+  - {native: Xhi, value: 120.367}
+  - {native: Ylo, value: -120.367}
+  - {native: Yhi, value: 120.367}
+  - {native: Zlo, value: -120.367}
+  - {native: Zhi, value: 120.367}
+  - {native: Volume, value: 1.3951223499766905E7}
+spatial:
+- name: dump.cry400_1
+  native: dump.cry400_1
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+  location: https://dl.dropboxusercontent.com/u/22455492/Polymer/Single chain crystallization/dump.cry400
+  viz:
+  - url: FIGURES/dump.cry400_1_1.png
+    name: []
+  - url: FIGURES/dump.cry400_1_2.png
+    name: []
+  - url: FIGURES/dump.cry400_1_3.png
+    name: []
+  - url: FIGURES/dump.cry400_1_4.png
+    name: []
+dict: polyer-md-sim
+---
