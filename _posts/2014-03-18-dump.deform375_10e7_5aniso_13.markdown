@@ -1,0 +1,2372 @@
+---
+layout: dataset
+title: dump.deform375_10e7_5aniso_13
+description: []
+aggregate:
+- name: dump.deform375_10e7_5aniso_13_1
+  native: dump.deform375_10e7_5aniso_13_1
+  description: []
+  output:
+  - {native: step, value: 6300000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -28.2673}
+  - {native: Xhi, value: 28.2673}
+  - {native: Ylo, value: -14.3228}
+  - {native: Yhi, value: 14.3228}
+  - {native: Zlo, value: -67.8779}
+  - {native: Zhi, value: 67.8779}
+  - {native: Volume, value: 219852.111162639}
+- name: dump.deform375_10e7_5aniso_13_10
+  native: dump.deform375_10e7_5aniso_13_10
+  description: []
+  output:
+  - {native: step, value: 7200000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -26.541}
+  - {native: Xhi, value: 26.541}
+  - {native: Ylo, value: -13.8693}
+  - {native: Yhi, value: 13.8693}
+  - {native: Zlo, value: -74.2703}
+  - {native: Zhi, value: 74.2703}
+  - {native: Volume, value: 218714.20449902714}
+- name: dump.deform375_10e7_5aniso_13_11
+  native: dump.deform375_10e7_5aniso_13_11
+  description: []
+  output:
+  - {native: step, value: 7300000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -26.2969}
+  - {native: Xhi, value: 26.2969}
+  - {native: Ylo, value: -13.8474}
+  - {native: Yhi, value: 13.8474}
+  - {native: Zlo, value: -75.0167}
+  - {native: Zhi, value: 75.0167}
+  - {native: Volume, value: 218534.86543339284}
+- name: dump.deform375_10e7_5aniso_13_12
+  native: dump.deform375_10e7_5aniso_13_12
+  description: []
+  output:
+  - {native: step, value: 7400000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -26.2059}
+  - {native: Xhi, value: 26.2059}
+  - {native: Ylo, value: -13.7534}
+  - {native: Yhi, value: 13.7534}
+  - {native: Zlo, value: -75.7706}
+  - {native: Zhi, value: 75.7706}
+  - {native: Volume, value: 218474.05363944985}
+- name: dump.deform375_10e7_5aniso_13_13
+  native: dump.deform375_10e7_5aniso_13_13
+  description: []
+  output:
+  - {native: step, value: 7500000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -26.2542}
+  - {native: Xhi, value: 26.2542}
+  - {native: Ylo, value: -13.5655}
+  - {native: Yhi, value: 13.5655}
+  - {native: Zlo, value: -76.5322}
+  - {native: Zhi, value: 76.5322}
+  - {native: Volume, value: 218056.37084898577}
+- name: dump.deform375_10e7_5aniso_13_14
+  native: dump.deform375_10e7_5aniso_13_14
+  description: []
+  output:
+  - {native: step, value: 7600000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -26.1279}
+  - {native: Xhi, value: 26.1279}
+  - {native: Ylo, value: -13.5092}
+  - {native: Yhi, value: 13.5092}
+  - {native: Zlo, value: -77.3013}
+  - {native: Zhi, value: 77.3013}
+  - {native: Volume, value: 218278.48015598947}
+- name: dump.deform375_10e7_5aniso_13_15
+  native: dump.deform375_10e7_5aniso_13_15
+  description: []
+  output:
+  - {native: step, value: 7700000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -25.9437}
+  - {native: Xhi, value: 25.9437}
+  - {native: Ylo, value: -13.5262}
+  - {native: Yhi, value: 13.5262}
+  - {native: Zlo, value: -78.0782}
+  - {native: Zhi, value: 78.0782}
+  - {native: Volume, value: 219193.41251120245}
+- name: dump.deform375_10e7_5aniso_13_16
+  native: dump.deform375_10e7_5aniso_13_16
+  description: []
+  output:
+  - {native: step, value: 7800000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -25.667}
+  - {native: Xhi, value: 25.667}
+  - {native: Ylo, value: -13.5549}
+  - {native: Yhi, value: 13.5549}
+  - {native: Zlo, value: -78.8629}
+  - {native: Zhi, value: 78.8629}
+  - {native: Volume, value: 219499.81510904853}
+- name: dump.deform375_10e7_5aniso_13_17
+  native: dump.deform375_10e7_5aniso_13_17
+  description: []
+  output:
+  - {native: step, value: 7900000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -25.7719}
+  - {native: Xhi, value: 25.7719}
+  - {native: Ylo, value: -13.4493}
+  - {native: Yhi, value: 13.4493}
+  - {native: Zlo, value: -79.6555}
+  - {native: Zhi, value: 79.6555}
+  - {native: Volume, value: 220877.70116436947}
+- name: dump.deform375_10e7_5aniso_13_18
+  native: dump.deform375_10e7_5aniso_13_18
+  description: []
+  output:
+  - {native: step, value: 8300000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -24.9243}
+  - {native: Xhi, value: 24.9243}
+  - {native: Ylo, value: -13.388}
+  - {native: Yhi, value: 13.388}
+  - {native: Zlo, value: -82.9063}
+  - {native: Zhi, value: 82.9063}
+  - {native: Volume, value: 221317.72343591135}
+- name: dump.deform375_10e7_5aniso_13_19
+  native: dump.deform375_10e7_5aniso_13_19
+  description: []
+  output:
+  - {native: step, value: 8400000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -24.6506}
+  - {native: Xhi, value: 24.6506}
+  - {native: Ylo, value: -13.3113}
+  - {native: Yhi, value: 13.3113}
+  - {native: Zlo, value: -83.7395}
+  - {native: Zhi, value: 83.7395}
+  - {native: Volume, value: 219820.5632439305}
+- name: dump.deform375_10e7_5aniso_13_2
+  native: dump.deform375_10e7_5aniso_13_2
+  description: []
+  output:
+  - {native: step, value: 6400000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -28.039}
+  - {native: Xhi, value: 28.039}
+  - {native: Ylo, value: -14.2218}
+  - {native: Yhi, value: 14.2218}
+  - {native: Zlo, value: -68.5601}
+  - {native: Zhi, value: 68.5601}
+  - {native: Volume, value: 218714.97374573618}
+- name: dump.deform375_10e7_5aniso_13_20
+  native: dump.deform375_10e7_5aniso_13_20
+  description: []
+  output:
+  - {native: step, value: 8500000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -24.326}
+  - {native: Xhi, value: 24.326}
+  - {native: Ylo, value: -13.3124}
+  - {native: Yhi, value: 13.3124}
+  - {native: Zlo, value: -84.5811}
+  - {native: Zhi, value: 84.5811}
+  - {native: Volume, value: 219124.21679502912}
+- name: dump.deform375_10e7_5aniso_13_21
+  native: dump.deform375_10e7_5aniso_13_21
+  description: []
+  output:
+  - {native: step, value: 8600000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -24.3069}
+  - {native: Xhi, value: 24.3069}
+  - {native: Ylo, value: -13.2743}
+  - {native: Yhi, value: 13.2743}
+  - {native: Zlo, value: -85.4312}
+  - {native: Zhi, value: 85.4312}
+  - {native: Volume, value: 220519.85408797843}
+- name: dump.deform375_10e7_5aniso_13_22
+  native: dump.deform375_10e7_5aniso_13_22
+  description: []
+  output:
+  - {native: step, value: 8700000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -24.1731}
+  - {native: Xhi, value: 24.1731}
+  - {native: Ylo, value: -13.1915}
+  - {native: Yhi, value: 13.1915}
+  - {native: Zlo, value: -86.2898}
+  - {native: Zhi, value: 86.2898}
+  - {native: Volume, value: 220128.3507849502}
+- name: dump.deform375_10e7_5aniso_13_23
+  native: dump.deform375_10e7_5aniso_13_23
+  description: []
+  output:
+  - {native: step, value: 8800000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -23.9617}
+  - {native: Xhi, value: 23.9617}
+  - {native: Ylo, value: -13.1227}
+  - {native: Yhi, value: 13.1227}
+  - {native: Zlo, value: -87.157}
+  - {native: Zhi, value: 87.157}
+  - {native: Volume, value: 219246.71101458106}
+- name: dump.deform375_10e7_5aniso_13_24
+  native: dump.deform375_10e7_5aniso_13_24
+  description: []
+  output:
+  - {native: step, value: 8900000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -23.7799}
+  - {native: Xhi, value: 23.7799}
+  - {native: Ylo, value: -13.0045}
+  - {native: Yhi, value: 13.0045}
+  - {native: Zlo, value: -88.0329}
+  - {native: Zhi, value: 88.0329}
+  - {native: Volume, value: 217790.37299395356}
+- name: dump.deform375_10e7_5aniso_13_25
+  native: dump.deform375_10e7_5aniso_13_25
+  description: []
+  output:
+  - {native: step, value: 9000000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -23.6325}
+  - {native: Xhi, value: 23.6325}
+  - {native: Ylo, value: -12.9314}
+  - {native: Yhi, value: 12.9314}
+  - {native: Zlo, value: -88.9177}
+  - {native: Zhi, value: 88.9177}
+  - {native: Volume, value: 217386.9251731668}
+- name: dump.deform375_10e7_5aniso_13_26
+  native: dump.deform375_10e7_5aniso_13_26
+  description: []
+  output:
+  - {native: step, value: 9100000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -23.655}
+  - {native: Xhi, value: 23.655}
+  - {native: Ylo, value: -12.8662}
+  - {native: Yhi, value: 12.8662}
+  - {native: Zlo, value: -89.8113}
+  - {native: Zhi, value: 89.8113}
+  - {native: Volume, value: 218672.52521887442}
+- name: dump.deform375_10e7_5aniso_13_27
+  native: dump.deform375_10e7_5aniso_13_27
+  description: []
+  output:
+  - {native: step, value: 9200000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -23.4363}
+  - {native: Xhi, value: 23.4363}
+  - {native: Ylo, value: -12.8509}
+  - {native: Yhi, value: 12.8509}
+  - {native: Zlo, value: -90.7139}
+  - {native: Zhi, value: 90.7139}
+  - {native: Volume, value: 218567.91953265286}
+- name: dump.deform375_10e7_5aniso_13_28
+  native: dump.deform375_10e7_5aniso_13_28
+  description: []
+  output:
+  - {native: step, value: 9300000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -23.2999}
+  - {native: Xhi, value: 23.2999}
+  - {native: Ylo, value: -12.9274}
+  - {native: Yhi, value: 12.9274}
+  - {native: Zlo, value: -91.6256}
+  - {native: Zhi, value: 91.6256}
+  - {native: Volume, value: 220786.2700757909}
+- name: dump.deform375_10e7_5aniso_13_29
+  native: dump.deform375_10e7_5aniso_13_29
+  description: []
+  output:
+  - {native: step, value: 9400000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -23.2957}
+  - {native: Xhi, value: 23.2957}
+  - {native: Ylo, value: -12.858}
+  - {native: Yhi, value: 12.858}
+  - {native: Zlo, value: -92.5465}
+  - {native: Zhi, value: 92.5465}
+  - {native: Volume, value: 221768.1492771432}
+- name: dump.deform375_10e7_5aniso_13_3
+  native: dump.deform375_10e7_5aniso_13_3
+  description: []
+  output:
+  - {native: step, value: 6500000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -27.8317}
+  - {native: Xhi, value: 27.8317}
+  - {native: Ylo, value: -14.1921}
+  - {native: Yhi, value: 14.1921}
+  - {native: Zlo, value: -69.2492}
+  - {native: Zhi, value: 69.2492}
+  - {native: Volume, value: 218822.08140405477}
+- name: dump.deform375_10e7_5aniso_13_30
+  native: dump.deform375_10e7_5aniso_13_30
+  description: []
+  output:
+  - {native: step, value: 9500000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -23.1972}
+  - {native: Xhi, value: 23.1972}
+  - {native: Ylo, value: -12.8513}
+  - {native: Yhi, value: 12.8513}
+  - {native: Zlo, value: -93.4766}
+  - {native: Zhi, value: 93.4766}
+  - {native: Volume, value: 222933.5969434654}
+- name: dump.deform375_10e7_5aniso_13_31
+  native: dump.deform375_10e7_5aniso_13_31
+  description: []
+  output:
+  - {native: step, value: 9600000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -23.2108}
+  - {native: Xhi, value: 23.2108}
+  - {native: Ylo, value: -12.7774}
+  - {native: Yhi, value: 12.7774}
+  - {native: Zlo, value: -94.416}
+  - {native: Zhi, value: 94.416}
+  - {native: Volume, value: 224010.40148530173}
+- name: dump.deform375_10e7_5aniso_13_32
+  native: dump.deform375_10e7_5aniso_13_32
+  description: []
+  output:
+  - {native: step, value: 9700000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -23.1446}
+  - {native: Xhi, value: 23.1446}
+  - {native: Ylo, value: -12.7639}
+  - {native: Yhi, value: 12.7639}
+  - {native: Zlo, value: -95.3649}
+  - {native: Zhi, value: 95.3649}
+  - {native: Volume, value: 225378.05007313684}
+- name: dump.deform375_10e7_5aniso_13_33
+  native: dump.deform375_10e7_5aniso_13_33
+  description: []
+  output:
+  - {native: step, value: 9800000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -23.0043}
+  - {native: Xhi, value: 23.0043}
+  - {native: Ylo, value: -12.746}
+  - {native: Yhi, value: 12.746}
+  - {native: Zlo, value: -96.3234}
+  - {native: Zhi, value: 96.3234}
+  - {native: Volume, value: 225946.0365667402}
+- name: dump.deform375_10e7_5aniso_13_34
+  native: dump.deform375_10e7_5aniso_13_34
+  description: []
+  output:
+  - {native: step, value: 9900000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8063}
+  - {native: Xhi, value: 22.8063}
+  - {native: Ylo, value: -12.7757}
+  - {native: Yhi, value: 12.7757}
+  - {native: Zlo, value: -97.2914}
+  - {native: Zhi, value: 97.2914}
+  - {native: Volume, value: 226779.5962631966}
+- name: dump.deform375_10e7_5aniso_13_35
+  native: dump.deform375_10e7_5aniso_13_35
+  description: []
+  output:
+  - {native: step, value: 1.0E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.6751}
+  - {native: Xhi, value: 22.6751}
+  - {native: Ylo, value: -12.7284}
+  - {native: Yhi, value: 12.7284}
+  - {native: Zlo, value: -98.2692}
+  - {native: Zhi, value: 98.2692}
+  - {native: Volume, value: 226897.87755754023}
+- name: dump.deform375_10e7_5aniso_13_36
+  native: dump.deform375_10e7_5aniso_13_36
+  description: []
+  output:
+  - {native: step, value: 1.01E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7394}
+  - {native: Xhi, value: 22.7394}
+  - {native: Ylo, value: -12.653}
+  - {native: Yhi, value: 12.653}
+  - {native: Zlo, value: -99.2569}
+  - {native: Zhi, value: 99.2569}
+  - {native: Volume, value: 228466.85502467665}
+- name: dump.deform375_10e7_5aniso_13_37
+  native: dump.deform375_10e7_5aniso_13_37
+  description: []
+  output:
+  - {native: step, value: 1.02E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7167}
+  - {native: Xhi, value: 22.7167}
+  - {native: Ylo, value: -12.5904}
+  - {native: Yhi, value: 12.5904}
+  - {native: Zlo, value: -100.254}
+  - {native: Zhi, value: 100.254}
+  - {native: Volume, value: 229391.04881822978}
+- name: dump.deform375_10e7_5aniso_13_38
+  native: dump.deform375_10e7_5aniso_13_38
+  description: []
+  output:
+  - {native: step, value: 1.03E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9429}
+  - {native: Xhi, value: 22.9429}
+  - {native: Ylo, value: -12.428}
+  - {native: Yhi, value: 12.428}
+  - {native: Zlo, value: -101.262}
+  - {native: Zhi, value: 101.262}
+  - {native: Volume, value: 230986.20547067525}
+- name: dump.deform375_10e7_5aniso_13_39
+  native: dump.deform375_10e7_5aniso_13_39
+  description: []
+  output:
+  - {native: step, value: 1.04E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8224}
+  - {native: Xhi, value: 22.8224}
+  - {native: Ylo, value: -12.4104}
+  - {native: Yhi, value: 12.4104}
+  - {native: Zlo, value: -102.28}
+  - {native: Zhi, value: 102.28}
+  - {native: Volume, value: 231754.2988283904}
+- name: dump.deform375_10e7_5aniso_13_4
+  native: dump.deform375_10e7_5aniso_13_4
+  description: []
+  output:
+  - {native: step, value: 6600000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -27.4773}
+  - {native: Xhi, value: 27.4773}
+  - {native: Ylo, value: -14.2182}
+  - {native: Yhi, value: 14.2182}
+  - {native: Zlo, value: -69.9451}
+  - {native: Zhi, value: 69.9451}
+  - {native: Volume, value: 218607.95257517905}
+- name: dump.deform375_10e7_5aniso_13_40
+  native: dump.deform375_10e7_5aniso_13_40
+  description: []
+  output:
+  - {native: step, value: 1.05E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9041}
+  - {native: Xhi, value: 22.9041}
+  - {native: Ylo, value: -12.3102}
+  - {native: Yhi, value: 12.3102}
+  - {native: Zlo, value: -103.308}
+  - {native: Zhi, value: 103.308}
+  - {native: Volume, value: 233024.8734833645}
+- name: dump.deform375_10e7_5aniso_13_41
+  native: dump.deform375_10e7_5aniso_13_41
+  description: []
+  output:
+  - {native: step, value: 1.06E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7904}
+  - {native: Xhi, value: 22.7904}
+  - {native: Ylo, value: -12.3126}
+  - {native: Yhi, value: 12.3126}
+  - {native: Zlo, value: -104.346}
+  - {native: Zhi, value: 104.346}
+  - {native: Volume, value: 234243.47969206277}
+- name: dump.deform375_10e7_5aniso_13_42
+  native: dump.deform375_10e7_5aniso_13_42
+  description: []
+  output:
+  - {native: step, value: 1.07E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7688}
+  - {native: Xhi, value: 22.7688}
+  - {native: Ylo, value: -12.2765}
+  - {native: Yhi, value: 12.2765}
+  - {native: Zlo, value: -105.395}
+  - {native: Zhi, value: 105.395}
+  - {native: Volume, value: 235681.07239531202}
+- name: dump.deform375_10e7_5aniso_13_43
+  native: dump.deform375_10e7_5aniso_13_43
+  description: []
+  output:
+  - {native: step, value: 1.08E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7677}
+  - {native: Xhi, value: 22.7677}
+  - {native: Ylo, value: -12.261}
+  - {native: Yhi, value: 12.261}
+  - {native: Zlo, value: -106.454}
+  - {native: Zhi, value: 106.454}
+  - {native: Volume, value: 237737.13482915037}
+- name: dump.deform375_10e7_5aniso_13_44
+  native: dump.deform375_10e7_5aniso_13_44
+  description: []
+  output:
+  - {native: step, value: 1.09E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8326}
+  - {native: Xhi, value: 22.8326}
+  - {native: Ylo, value: -12.2862}
+  - {native: Yhi, value: 12.2862}
+  - {native: Zlo, value: -107.524}
+  - {native: Zhi, value: 107.524}
+  - {native: Volume, value: 241306.12647410302}
+- name: dump.deform375_10e7_5aniso_13_45
+  native: dump.deform375_10e7_5aniso_13_45
+  description: []
+  output:
+  - {native: step, value: 1.1E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.6581}
+  - {native: Xhi, value: 22.6581}
+  - {native: Ylo, value: -12.3573}
+  - {native: Yhi, value: 12.3573}
+  - {native: Zlo, value: -108.604}
+  - {native: Zhi, value: 108.604}
+  - {native: Volume, value: 243266.82529019617}
+- name: dump.deform375_10e7_5aniso_13_46
+  native: dump.deform375_10e7_5aniso_13_46
+  description: []
+  output:
+  - {native: step, value: 1.11E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.6548}
+  - {native: Xhi, value: 22.6548}
+  - {native: Ylo, value: -12.358}
+  - {native: Yhi, value: 12.358}
+  - {native: Zlo, value: -109.696}
+  - {native: Zhi, value: 109.696}
+  - {native: Volume, value: 245690.9739712512}
+- name: dump.deform375_10e7_5aniso_13_47
+  native: dump.deform375_10e7_5aniso_13_47
+  description: []
+  output:
+  - {native: step, value: 1.12E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7716}
+  - {native: Xhi, value: 22.7716}
+  - {native: Ylo, value: -12.3317}
+  - {native: Yhi, value: 12.3317}
+  - {native: Zlo, value: -110.798}
+  - {native: Zhi, value: 110.798}
+  - {native: Volume, value: 248907.74220717244}
+- name: dump.deform375_10e7_5aniso_13_48
+  native: dump.deform375_10e7_5aniso_13_48
+  description: []
+  output:
+  - {native: step, value: 1.13E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8846}
+  - {native: Xhi, value: 22.8846}
+  - {native: Ylo, value: -12.2767}
+  - {native: Yhi, value: 12.2767}
+  - {native: Zlo, value: -111.912}
+  - {native: Zhi, value: 111.912}
+  - {native: Volume, value: 251531.05551507074}
+- name: dump.deform375_10e7_5aniso_13_49
+  native: dump.deform375_10e7_5aniso_13_49
+  description: []
+  output:
+  - {native: step, value: 1.14E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8136}
+  - {native: Xhi, value: 22.8136}
+  - {native: Ylo, value: -12.2807}
+  - {native: Yhi, value: 12.2807}
+  - {native: Zlo, value: -113.037}
+  - {native: Zhi, value: 113.037}
+  - {native: Volume, value: 253353.8771034259}
+- name: dump.deform375_10e7_5aniso_13_5
+  native: dump.deform375_10e7_5aniso_13_5
+  description: []
+  output:
+  - {native: step, value: 6700000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -27.2926}
+  - {native: Xhi, value: 27.2926}
+  - {native: Ylo, value: -14.1241}
+  - {native: Yhi, value: 14.1241}
+  - {native: Zlo, value: -70.6481}
+  - {native: Zhi, value: 70.6481}
+  - {native: Volume, value: 217869.36492237478}
+- name: dump.deform375_10e7_5aniso_13_50
+  native: dump.deform375_10e7_5aniso_13_50
+  description: []
+  output:
+  - {native: step, value: 1.15E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9036}
+  - {native: Xhi, value: 22.9036}
+  - {native: Ylo, value: -12.2132}
+  - {native: Yhi, value: 12.2132}
+  - {native: Zlo, value: -114.173}
+  - {native: Zhi, value: 114.173}
+  - {native: Volume, value: 255497.4788648077}
+- name: dump.deform375_10e7_5aniso_13_51
+  native: dump.deform375_10e7_5aniso_13_51
+  description: []
+  output:
+  - {native: step, value: 1.16E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8938}
+  - {native: Xhi, value: 22.8938}
+  - {native: Ylo, value: -12.2369}
+  - {native: Yhi, value: 12.2369}
+  - {native: Zlo, value: -115.32}
+  - {native: Zhi, value: 115.32}
+  - {native: Volume, value: 258454.39172392318}
+- name: dump.deform375_10e7_5aniso_13_52
+  native: dump.deform375_10e7_5aniso_13_52
+  description: []
+  output:
+  - {native: step, value: 1.17E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8331}
+  - {native: Xhi, value: 22.8331}
+  - {native: Ylo, value: -12.23}
+  - {native: Yhi, value: 12.23}
+  - {native: Zlo, value: -116.479}
+  - {native: Zhi, value: 116.479}
+  - {native: Volume, value: 260212.97991541604}
+- name: dump.deform375_10e7_5aniso_13_53
+  native: dump.deform375_10e7_5aniso_13_53
+  description: []
+  output:
+  - {native: step, value: 1.18E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7634}
+  - {native: Xhi, value: 22.7634}
+  - {native: Ylo, value: -12.2595}
+  - {native: Yhi, value: 12.2595}
+  - {native: Zlo, value: -117.65}
+  - {native: Zhi, value: 117.65}
+  - {native: Volume, value: 262658.70964476}
+- name: dump.deform375_10e7_5aniso_13_54
+  native: dump.deform375_10e7_5aniso_13_54
+  description: []
+  output:
+  - {native: step, value: 1.19E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8539}
+  - {native: Xhi, value: 22.8539}
+  - {native: Ylo, value: -12.2176}
+  - {native: Yhi, value: 12.2176}
+  - {native: Zlo, value: -118.832}
+  - {native: Zhi, value: 118.832}
+  - {native: Volume, value: 265441.9864024678}
+- name: dump.deform375_10e7_5aniso_13_55
+  native: dump.deform375_10e7_5aniso_13_55
+  description: []
+  output:
+  - {native: step, value: 1.2E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8232}
+  - {native: Xhi, value: 22.8232}
+  - {native: Ylo, value: -12.2017}
+  - {native: Yhi, value: 12.2017}
+  - {native: Zlo, value: -120.026}
+  - {native: Zhi, value: 120.026}
+  - {native: Volume, value: 267400.4900850035}
+- name: dump.deform375_10e7_5aniso_13_56
+  native: dump.deform375_10e7_5aniso_13_56
+  description: []
+  output:
+  - {native: step, value: 1.21E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8058}
+  - {native: Xhi, value: 22.8058}
+  - {native: Ylo, value: -12.1995}
+  - {native: Yhi, value: 12.1995}
+  - {native: Zlo, value: -121.233}
+  - {native: Zhi, value: 121.233}
+  - {native: Volume, value: 269834.93855443445}
+- name: dump.deform375_10e7_5aniso_13_57
+  native: dump.deform375_10e7_5aniso_13_57
+  description: []
+  output:
+  - {native: step, value: 1.22E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8214}
+  - {native: Xhi, value: 22.8214}
+  - {native: Ylo, value: -12.1937}
+  - {native: Yhi, value: 12.1937}
+  - {native: Zlo, value: -122.451}
+  - {native: Zhi, value: 122.451}
+  - {native: Volume, value: 272602.6743727694}
+- name: dump.deform375_10e7_5aniso_13_58
+  native: dump.deform375_10e7_5aniso_13_58
+  description: []
+  output:
+  - {native: step, value: 1.23E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7889}
+  - {native: Xhi, value: 22.7889}
+  - {native: Ylo, value: -12.2256}
+  - {native: Yhi, value: 12.2256}
+  - {native: Zlo, value: -123.682}
+  - {native: Zhi, value: 123.682}
+  - {native: Volume, value: 275670.33334274305}
+- name: dump.deform375_10e7_5aniso_13_59
+  native: dump.deform375_10e7_5aniso_13_59
+  description: []
+  output:
+  - {native: step, value: 1.24E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.778}
+  - {native: Xhi, value: 22.778}
+  - {native: Ylo, value: -12.2532}
+  - {native: Yhi, value: 12.2532}
+  - {native: Zlo, value: -124.925}
+  - {native: Zhi, value: 124.925}
+  - {native: Volume, value: 278935.92756623996}
+- name: dump.deform375_10e7_5aniso_13_6
+  native: dump.deform375_10e7_5aniso_13_6
+  description: []
+  output:
+  - {native: step, value: 6800000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -26.9491}
+  - {native: Xhi, value: 26.9491}
+  - {native: Ylo, value: -14.123}
+  - {native: Yhi, value: 14.123}
+  - {native: Zlo, value: -71.3581}
+  - {native: Zhi, value: 71.3581}
+  - {native: Volume, value: 217272.3641310666}
+- name: dump.deform375_10e7_5aniso_13_60
+  native: dump.deform375_10e7_5aniso_13_60
+  description: []
+  output:
+  - {native: step, value: 1.25E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7898}
+  - {native: Xhi, value: 22.7898}
+  - {native: Ylo, value: -12.2827}
+  - {native: Yhi, value: 12.2827}
+  - {native: Zlo, value: -126.18}
+  - {native: Zhi, value: 126.18}
+  - {native: Volume, value: 282562.72386978247}
+- name: dump.deform375_10e7_5aniso_13_61
+  native: dump.deform375_10e7_5aniso_13_61
+  description: []
+  output:
+  - {native: step, value: 1.26E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7988}
+  - {native: Xhi, value: 22.7988}
+  - {native: Ylo, value: -12.2808}
+  - {native: Yhi, value: 12.2808}
+  - {native: Zlo, value: -127.448}
+  - {native: Zhi, value: 127.448}
+  - {native: Volume, value: 285470.77829953533}
+- name: dump.deform375_10e7_5aniso_13_62
+  native: dump.deform375_10e7_5aniso_13_62
+  description: []
+  output:
+  - {native: step, value: 1.27E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7848}
+  - {native: Xhi, value: 22.7848}
+  - {native: Ylo, value: -12.3286}
+  - {native: Yhi, value: 12.3286}
+  - {native: Zlo, value: -128.729}
+  - {native: Zhi, value: 128.729}
+  - {native: Volume, value: 289284.63385127304}
+- name: dump.deform375_10e7_5aniso_13_63
+  native: dump.deform375_10e7_5aniso_13_63
+  description: []
+  output:
+  - {native: step, value: 1.28E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7525}
+  - {native: Xhi, value: 22.7525}
+  - {native: Ylo, value: -12.3421}
+  - {native: Yhi, value: 12.3421}
+  - {native: Zlo, value: -130.023}
+  - {native: Zhi, value: 130.023}
+  - {native: Volume, value: 292097.84516796604}
+- name: dump.deform375_10e7_5aniso_13_64
+  native: dump.deform375_10e7_5aniso_13_64
+  description: []
+  output:
+  - {native: step, value: 1.29E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8084}
+  - {native: Xhi, value: 22.8084}
+  - {native: Ylo, value: -12.3093}
+  - {native: Yhi, value: 12.3093}
+  - {native: Zlo, value: -131.33}
+  - {native: Zhi, value: 131.33}
+  - {native: Volume, value: 294972.89350639685}
+- name: dump.deform375_10e7_5aniso_13_65
+  native: dump.deform375_10e7_5aniso_13_65
+  description: []
+  output:
+  - {native: step, value: 1.3E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8285}
+  - {native: Xhi, value: 22.8285}
+  - {native: Ylo, value: -12.3344}
+  - {native: Yhi, value: 12.3344}
+  - {native: Zlo, value: -132.65}
+  - {native: Zhi, value: 132.65}
+  - {native: Volume, value: 298808.29244448}
+- name: dump.deform375_10e7_5aniso_13_66
+  native: dump.deform375_10e7_5aniso_13_66
+  description: []
+  output:
+  - {native: step, value: 1.31E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8837}
+  - {native: Xhi, value: 22.8837}
+  - {native: Ylo, value: -12.2787}
+  - {native: Yhi, value: 12.2787}
+  - {native: Zlo, value: -133.983}
+  - {native: Zhi, value: 133.983}
+  - {native: Volume, value: 301174.5839038222}
+- name: dump.deform375_10e7_5aniso_13_67
+  native: dump.deform375_10e7_5aniso_13_67
+  description: []
+  output:
+  - {native: step, value: 1.32E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9597}
+  - {native: Xhi, value: 22.9597}
+  - {native: Ylo, value: -12.2783}
+  - {native: Yhi, value: 12.2783}
+  - {native: Zlo, value: -135.329}
+  - {native: Zhi, value: 135.329}
+  - {native: Volume, value: 305200.54808523034}
+- name: dump.deform375_10e7_5aniso_13_68
+  native: dump.deform375_10e7_5aniso_13_68
+  description: []
+  output:
+  - {native: step, value: 1.33E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9343}
+  - {native: Xhi, value: 22.9343}
+  - {native: Ylo, value: -12.2691}
+  - {native: Yhi, value: 12.2691}
+  - {native: Zlo, value: -136.689}
+  - {native: Zhi, value: 136.689}
+  - {native: Volume, value: 307695.92781079654}
+- name: dump.deform375_10e7_5aniso_13_69
+  native: dump.deform375_10e7_5aniso_13_69
+  description: []
+  output:
+  - {native: step, value: 1.34E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9333}
+  - {native: Xhi, value: 22.9333}
+  - {native: Ylo, value: -12.2559}
+  - {native: Yhi, value: 12.2559}
+  - {native: Zlo, value: -138.063}
+  - {native: Zhi, value: 138.063}
+  - {native: Volume, value: 310440.98593154084}
+- name: dump.deform375_10e7_5aniso_13_7
+  native: dump.deform375_10e7_5aniso_13_7
+  description: []
+  output:
+  - {native: step, value: 6900000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -27.0655}
+  - {native: Xhi, value: 27.0655}
+  - {native: Ylo, value: -13.9905}
+  - {native: Yhi, value: 13.9905}
+  - {native: Zlo, value: -72.0753}
+  - {native: Zhi, value: 72.0753}
+  - {native: Volume, value: 218336.1942943566}
+- name: dump.deform375_10e7_5aniso_13_70
+  native: dump.deform375_10e7_5aniso_13_70
+  description: []
+  output:
+  - {native: step, value: 1.35E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9605}
+  - {native: Xhi, value: 22.9605}
+  - {native: Ylo, value: -12.1938}
+  - {native: Yhi, value: 12.1938}
+  - {native: Zlo, value: -139.451}
+  - {native: Zhi, value: 139.451}
+  - {native: Volume, value: 312343.18081639917}
+- name: dump.deform375_10e7_5aniso_13_71
+  native: dump.deform375_10e7_5aniso_13_71
+  description: []
+  output:
+  - {native: step, value: 1.36E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9388}
+  - {native: Xhi, value: 22.9388}
+  - {native: Ylo, value: -12.2518}
+  - {native: Yhi, value: 12.2518}
+  - {native: Zlo, value: -140.852}
+  - {native: Zhi, value: 140.852}
+  - {native: Volume, value: 316682.16009714943}
+- name: dump.deform375_10e7_5aniso_13_72
+  native: dump.deform375_10e7_5aniso_13_72
+  description: []
+  output:
+  - {native: step, value: 1.37E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9499}
+  - {native: Xhi, value: 22.9499}
+  - {native: Ylo, value: -12.2634}
+  - {native: Yhi, value: 12.2634}
+  - {native: Zlo, value: -142.268}
+  - {native: Zhi, value: 142.268}
+  - {native: Volume, value: 320323.57647280704}
+- name: dump.deform375_10e7_5aniso_13_73
+  native: dump.deform375_10e7_5aniso_13_73
+  description: []
+  output:
+  - {native: step, value: 1.38E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.953}
+  - {native: Xhi, value: 22.953}
+  - {native: Ylo, value: -12.2298}
+  - {native: Yhi, value: 12.2298}
+  - {native: Zlo, value: -143.698}
+  - {native: Zhi, value: 143.698}
+  - {native: Volume, value: 322700.4137006496}
+- name: dump.deform375_10e7_5aniso_13_74
+  native: dump.deform375_10e7_5aniso_13_74
+  description: []
+  output:
+  - {native: step, value: 1.39E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9014}
+  - {native: Xhi, value: 22.9014}
+  - {native: Ylo, value: -12.2302}
+  - {native: Yhi, value: 12.2302}
+  - {native: Zlo, value: -145.142}
+  - {native: Zhi, value: 145.142}
+  - {native: Volume, value: 325221.0754105901}
+- name: dump.deform375_10e7_5aniso_13_75
+  native: dump.deform375_10e7_5aniso_13_75
+  description: []
+  output:
+  - {native: step, value: 1.4E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9261}
+  - {native: Xhi, value: 22.9261}
+  - {native: Ylo, value: -12.2277}
+  - {native: Yhi, value: 12.2277}
+  - {native: Zlo, value: -146.6}
+  - {native: Zhi, value: 146.6}
+  - {native: Volume, value: 328775.0970992161}
+- name: dump.deform375_10e7_5aniso_13_76
+  native: dump.deform375_10e7_5aniso_13_76
+  description: []
+  output:
+  - {native: step, value: 1.41E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8916}
+  - {native: Xhi, value: 22.8916}
+  - {native: Ylo, value: -12.3167}
+  - {native: Yhi, value: 12.3167}
+  - {native: Zlo, value: -148.074}
+  - {native: Zhi, value: 148.074}
+  - {native: Volume, value: 333994.4939385543}
+- name: dump.deform375_10e7_5aniso_13_77
+  native: dump.deform375_10e7_5aniso_13_77
+  description: []
+  output:
+  - {native: step, value: 1.42E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9388}
+  - {native: Xhi, value: 22.9388}
+  - {native: Ylo, value: -12.3133}
+  - {native: Yhi, value: 12.3133}
+  - {native: Zlo, value: -149.562}
+  - {native: Zhi, value: 149.562}
+  - {native: Volume, value: 337953.07829755585}
+- name: dump.deform375_10e7_5aniso_13_78
+  native: dump.deform375_10e7_5aniso_13_78
+  description: []
+  output:
+  - {native: step, value: 1.43E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9832}
+  - {native: Xhi, value: 22.9832}
+  - {native: Ylo, value: -12.278}
+  - {native: Yhi, value: 12.278}
+  - {native: Zlo, value: -151.065}
+  - {native: Zhi, value: 151.065}
+  - {native: Volume, value: 341029.51497619203}
+- name: dump.deform375_10e7_5aniso_13_79
+  native: dump.deform375_10e7_5aniso_13_79
+  description: []
+  output:
+  - {native: step, value: 1.44E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9593}
+  - {native: Xhi, value: 22.9593}
+  - {native: Ylo, value: -12.2634}
+  - {native: Yhi, value: 12.2634}
+  - {native: Zlo, value: -152.583}
+  - {native: Zhi, value: 152.583}
+  - {native: Volume, value: 343689.03236526763}
+- name: dump.deform375_10e7_5aniso_13_8
+  native: dump.deform375_10e7_5aniso_13_8
+  description: []
+  output:
+  - {native: step, value: 7000000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -26.8482}
+  - {native: Xhi, value: 26.8482}
+  - {native: Ylo, value: -14.0433}
+  - {native: Yhi, value: 14.0433}
+  - {native: Zlo, value: -72.7996}
+  - {native: Zhi, value: 72.7996}
+  - {native: Volume, value: 219585.3327602974}
+- name: dump.deform375_10e7_5aniso_13_80
+  native: dump.deform375_10e7_5aniso_13_80
+  description: []
+  output:
+  - {native: step, value: 1.45E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9594}
+  - {native: Xhi, value: 22.9594}
+  - {native: Ylo, value: -12.2634}
+  - {native: Yhi, value: 12.2634}
+  - {native: Zlo, value: -154.117}
+  - {native: Zhi, value: 154.117}
+  - {native: Volume, value: 347145.83738909854}
+- name: dump.deform375_10e7_5aniso_13_81
+  native: dump.deform375_10e7_5aniso_13_81
+  description: []
+  output:
+  - {native: step, value: 1.46E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8968}
+  - {native: Xhi, value: 22.8968}
+  - {native: Ylo, value: -12.2431}
+  - {native: Yhi, value: 12.2431}
+  - {native: Zlo, value: -155.666}
+  - {native: Zhi, value: 155.666}
+  - {native: Volume, value: 349100.0735619622}
+- name: dump.deform375_10e7_5aniso_13_82
+  native: dump.deform375_10e7_5aniso_13_82
+  description: []
+  output:
+  - {native: step, value: 1.47E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9283}
+  - {native: Xhi, value: 22.9283}
+  - {native: Ylo, value: -12.2417}
+  - {native: Yhi, value: 12.2417}
+  - {native: Zlo, value: -157.23}
+  - {native: Zhi, value: 157.23}
+  - {native: Volume, value: 353052.25457916234}
+- name: dump.deform375_10e7_5aniso_13_83
+  native: dump.deform375_10e7_5aniso_13_83
+  description: []
+  output:
+  - {native: step, value: 1.48E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9123}
+  - {native: Xhi, value: 22.9123}
+  - {native: Ylo, value: -12.2607}
+  - {native: Yhi, value: 12.2607}
+  - {native: Zlo, value: -158.81}
+  - {native: Zhi, value: 158.81}
+  - {native: Volume, value: 356904.30449627276}
+- name: dump.deform375_10e7_5aniso_13_84
+  native: dump.deform375_10e7_5aniso_13_84
+  description: []
+  output:
+  - {native: step, value: 1.49E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9279}
+  - {native: Xhi, value: 22.9279}
+  - {native: Ylo, value: -12.2787}
+  - {native: Yhi, value: 12.2787}
+  - {native: Zlo, value: -160.406}
+  - {native: Zhi, value: 160.406}
+  - {native: Volume, value: 361266.1439034111}
+- name: dump.deform375_10e7_5aniso_13_85
+  native: dump.deform375_10e7_5aniso_13_85
+  description: []
+  output:
+  - {native: step, value: 1.5E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.9024}
+  - {native: Xhi, value: 22.9024}
+  - {native: Ylo, value: -12.2735}
+  - {native: Yhi, value: 12.2735}
+  - {native: Zlo, value: -162.019}
+  - {native: Zhi, value: 162.019}
+  - {native: Volume, value: 364338.74397057283}
+- name: dump.deform375_10e7_5aniso_13_86
+  native: dump.deform375_10e7_5aniso_13_86
+  description: []
+  output:
+  - {native: step, value: 1.51E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8984}
+  - {native: Xhi, value: 22.8984}
+  - {native: Ylo, value: -12.2809}
+  - {native: Yhi, value: 12.2809}
+  - {native: Zlo, value: -163.647}
+  - {native: Zhi, value: 163.647}
+  - {native: Volume, value: 368157.25885409856}
+- name: dump.deform375_10e7_5aniso_13_87
+  native: dump.deform375_10e7_5aniso_13_87
+  description: []
+  output:
+  - {native: step, value: 1.52E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8162}
+  - {native: Xhi, value: 22.8162}
+  - {native: Ylo, value: -12.3142}
+  - {native: Yhi, value: 12.3142}
+  - {native: Zlo, value: -165.292}
+  - {native: Zhi, value: 165.292}
+  - {native: Volume, value: 371527.8202048934}
+- name: dump.deform375_10e7_5aniso_13_88
+  native: dump.deform375_10e7_5aniso_13_88
+  description: []
+  output:
+  - {native: step, value: 1.53E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8077}
+  - {native: Xhi, value: 22.8077}
+  - {native: Ylo, value: -12.3153}
+  - {native: Yhi, value: 12.3153}
+  - {native: Zlo, value: -166.953}
+  - {native: Zhi, value: 166.953}
+  - {native: Volume, value: 375154.96793506347}
+- name: dump.deform375_10e7_5aniso_13_89
+  native: dump.deform375_10e7_5aniso_13_89
+  description: []
+  output:
+  - {native: step, value: 1.54E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8268}
+  - {native: Xhi, value: 22.8268}
+  - {native: Ylo, value: -12.2932}
+  - {native: Yhi, value: 12.2932}
+  - {native: Zlo, value: -168.631}
+  - {native: Zhi, value: 168.631}
+  - {native: Volume, value: 378562.3190502924}
+- name: dump.deform375_10e7_5aniso_13_9
+  native: dump.deform375_10e7_5aniso_13_9
+  description: []
+  output:
+  - {native: step, value: 7100000.0}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -26.7129}
+  - {native: Xhi, value: 26.7129}
+  - {native: Ylo, value: -13.9459}
+  - {native: Yhi, value: 13.9459}
+  - {native: Zlo, value: -73.5313}
+  - {native: Zhi, value: 73.5313}
+  - {native: Volume, value: 219144.11695288034}
+- name: dump.deform375_10e7_5aniso_13_90
+  native: dump.deform375_10e7_5aniso_13_90
+  description: []
+  output:
+  - {native: step, value: 1.55E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8438}
+  - {native: Xhi, value: 22.8438}
+  - {native: Ylo, value: -12.2924}
+  - {native: Yhi, value: 12.2924}
+  - {native: Zlo, value: -170.325}
+  - {native: Zhi, value: 170.325}
+  - {native: Volume, value: 382625.066213712}
+- name: dump.deform375_10e7_5aniso_13_91
+  native: dump.deform375_10e7_5aniso_13_91
+  description: []
+  output:
+  - {native: step, value: 1.56E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.8176}
+  - {native: Xhi, value: 22.8176}
+  - {native: Ylo, value: -12.2875}
+  - {native: Yhi, value: 12.2875}
+  - {native: Zlo, value: -172.037}
+  - {native: Zhi, value: 172.037}
+  - {native: Volume, value: 385873.84365296}
+- name: dump.deform375_10e7_5aniso_13_92
+  native: dump.deform375_10e7_5aniso_13_92
+  description: []
+  output:
+  - {native: step, value: 1.57E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7978}
+  - {native: Xhi, value: 22.7978}
+  - {native: Ylo, value: -12.2938}
+  - {native: Yhi, value: 12.2938}
+  - {native: Zlo, value: -173.766}
+  - {native: Zhi, value: 173.766}
+  - {native: Volume, value: 389613.38992358587}
+- name: dump.deform375_10e7_5aniso_13_93
+  native: dump.deform375_10e7_5aniso_13_93
+  description: []
+  output:
+  - {native: step, value: 1.58E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7517}
+  - {native: Xhi, value: 22.7517}
+  - {native: Ylo, value: -12.3061}
+  - {native: Yhi, value: 12.3061}
+  - {native: Zlo, value: -175.513}
+  - {native: Zhi, value: 175.513}
+  - {native: Volume, value: 393127.63070779847}
+- name: dump.deform375_10e7_5aniso_13_94
+  native: dump.deform375_10e7_5aniso_13_94
+  description: []
+  output:
+  - {native: step, value: 1.59E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7142}
+  - {native: Xhi, value: 22.7142}
+  - {native: Ylo, value: -12.3266}
+  - {native: Yhi, value: 12.3266}
+  - {native: Zlo, value: -177.277}
+  - {native: Zhi, value: 177.277}
+  - {native: Volume, value: 397084.6778402275}
+- name: dump.deform375_10e7_5aniso_13_95
+  native: dump.deform375_10e7_5aniso_13_95
+  description: []
+  output:
+  - {native: step, value: 1.6E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7415}
+  - {native: Xhi, value: 22.7415}
+  - {native: Ylo, value: -12.2925}
+  - {native: Yhi, value: 12.2925}
+  - {native: Zlo, value: -179.058}
+  - {native: Zhi, value: 179.058}
+  - {native: Volume, value: 400445.15183837997}
+- name: dump.deform375_10e7_5aniso_13_96
+  native: dump.deform375_10e7_5aniso_13_96
+  description: []
+  output:
+  - {native: step, value: 1.61E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7031}
+  - {native: Xhi, value: 22.7031}
+  - {native: Ylo, value: -12.3141}
+  - {native: Yhi, value: 12.3141}
+  - {native: Zlo, value: -180.858}
+  - {native: Zhi, value: 180.858}
+  - {native: Volume, value: 404497.22736722545}
+- name: dump.deform375_10e7_5aniso_13_97
+  native: dump.deform375_10e7_5aniso_13_97
+  description: []
+  output:
+  - {native: step, value: 1.62E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7654}
+  - {native: Xhi, value: 22.7654}
+  - {native: Ylo, value: -12.3017}
+  - {native: Yhi, value: 12.3017}
+  - {native: Zlo, value: -182.675}
+  - {native: Zhi, value: 182.675}
+  - {native: Volume, value: 409269.63129245205}
+- name: dump.deform375_10e7_5aniso_13_98
+  native: dump.deform375_10e7_5aniso_13_98
+  description: []
+  output:
+  - {native: step, value: 1.63E7}
+  - {native: natom, value: 7999.0}
+  - {native: Xlo, value: -22.7269}
+  - {native: Xhi, value: 22.7269}
+  - {native: Ylo, value: -12.3013}
+  - {native: Yhi, value: 12.3013}
+  - {native: Zlo, value: -184.511}
+  - {native: Zhi, value: 184.511}
+  - {native: Volume, value: 412670.5346922373}
+spatial:
+- name: dump.deform375_10e7_5aniso_13_1
+  native: dump.deform375_10e7_5aniso_13_1
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+  location: https://dl.dropboxusercontent.com/u/22455492/Polymer/aniso/dump.deform375_10e7_5aniso_13
+  viz:
+  - url: http://farm4.staticflickr.com/3833/13249434503_7647fd647c_z.jpg
+    name: []
+  - url: http://farm3.staticflickr.com/2835/13249293495_95d228b55c_z.jpg
+    name: []
+  - url: http://farm4.staticflickr.com/3698/13249293885_d81162081d_z.jpg
+    name: []
+  - url: http://farm3.staticflickr.com/2865/13249294125_f2d72ef8ae_z.jpg
+    name: []
+- name: dump.deform375_10e7_5aniso_13_10
+  native: dump.deform375_10e7_5aniso_13_10
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_11
+  native: dump.deform375_10e7_5aniso_13_11
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+  location: https://dl.dropboxusercontent.com/u/22455492/Polymer/aniso/dump.deform375_10e7_5aniso_13
+  viz:
+  - url: http://farm8.staticflickr.com/7236/13249633424_3a63c1e19f_z.jpg
+    name: []
+  - url: http://farm3.staticflickr.com/2826/13249633634_e45312a94c_z.jpg
+    name: []
+  - url: http://farm3.staticflickr.com/2886/13249295275_dee7af25b1_z.jpg
+    name: []
+  - url: http://farm4.staticflickr.com/3687/13249634684_8d7ddf38c3_z.jpg
+    name: []
+- name: dump.deform375_10e7_5aniso_13_12
+  native: dump.deform375_10e7_5aniso_13_12
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_13
+  native: dump.deform375_10e7_5aniso_13_13
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_14
+  native: dump.deform375_10e7_5aniso_13_14
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_15
+  native: dump.deform375_10e7_5aniso_13_15
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_16
+  native: dump.deform375_10e7_5aniso_13_16
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_17
+  native: dump.deform375_10e7_5aniso_13_17
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_18
+  native: dump.deform375_10e7_5aniso_13_18
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_19
+  native: dump.deform375_10e7_5aniso_13_19
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_2
+  native: dump.deform375_10e7_5aniso_13_2
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_20
+  native: dump.deform375_10e7_5aniso_13_20
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_21
+  native: dump.deform375_10e7_5aniso_13_21
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+  location: https://dl.dropboxusercontent.com/u/22455492/Polymer/aniso/dump.deform375_10e7_5aniso_13
+  viz:
+  - url: http://farm8.staticflickr.com/7432/13249296515_9a39215fa5_z.jpg
+    name: []
+  - url: http://farm4.staticflickr.com/3754/13249437843_518b75d3b4_z.jpg
+    name: []
+  - url: http://farm4.staticflickr.com/3797/13249438293_db4dcbc2ab_z.jpg
+    name: []
+  - url: http://farm8.staticflickr.com/7138/13249297435_ab4b0e7801_z.jpg
+    name: []
+- name: dump.deform375_10e7_5aniso_13_22
+  native: dump.deform375_10e7_5aniso_13_22
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_23
+  native: dump.deform375_10e7_5aniso_13_23
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_24
+  native: dump.deform375_10e7_5aniso_13_24
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_25
+  native: dump.deform375_10e7_5aniso_13_25
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_26
+  native: dump.deform375_10e7_5aniso_13_26
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_27
+  native: dump.deform375_10e7_5aniso_13_27
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_28
+  native: dump.deform375_10e7_5aniso_13_28
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_29
+  native: dump.deform375_10e7_5aniso_13_29
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_3
+  native: dump.deform375_10e7_5aniso_13_3
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_30
+  native: dump.deform375_10e7_5aniso_13_30
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_31
+  native: dump.deform375_10e7_5aniso_13_31
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+  location: https://dl.dropboxusercontent.com/u/22455492/Polymer/aniso/dump.deform375_10e7_5aniso_13
+  viz:
+  - url: http://farm4.staticflickr.com/3778/13249297585_442b9b16a9_z.jpg
+    name: []
+  - url: http://farm4.staticflickr.com/3798/13249297795_0d0cc268ea_z.jpg
+    name: []
+  - url: http://farm8.staticflickr.com/7353/13249298235_a97522d624_z.jpg
+    name: []
+  - url: http://farm8.staticflickr.com/7177/13249637094_c3fed781bc_z.jpg
+    name: []
+- name: dump.deform375_10e7_5aniso_13_32
+  native: dump.deform375_10e7_5aniso_13_32
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_33
+  native: dump.deform375_10e7_5aniso_13_33
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_34
+  native: dump.deform375_10e7_5aniso_13_34
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_35
+  native: dump.deform375_10e7_5aniso_13_35
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_36
+  native: dump.deform375_10e7_5aniso_13_36
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_37
+  native: dump.deform375_10e7_5aniso_13_37
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_38
+  native: dump.deform375_10e7_5aniso_13_38
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_39
+  native: dump.deform375_10e7_5aniso_13_39
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_4
+  native: dump.deform375_10e7_5aniso_13_4
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_40
+  native: dump.deform375_10e7_5aniso_13_40
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_41
+  native: dump.deform375_10e7_5aniso_13_41
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+  location: https://dl.dropboxusercontent.com/u/22455492/Polymer/aniso/dump.deform375_10e7_5aniso_13
+  viz:
+  - url: http://farm4.staticflickr.com/3718/13249299275_7e14be505d_z.jpg
+    name: []
+  - url: http://farm3.staticflickr.com/2857/13249637794_4e78fc7665_z.jpg
+    name: []
+  - url: http://farm3.staticflickr.com/2893/13249441013_58888b3faa_z.jpg
+    name: []
+  - url: http://farm4.staticflickr.com/3834/13249441413_e633011a16_z.jpg
+    name: []
+- name: dump.deform375_10e7_5aniso_13_42
+  native: dump.deform375_10e7_5aniso_13_42
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_43
+  native: dump.deform375_10e7_5aniso_13_43
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_44
+  native: dump.deform375_10e7_5aniso_13_44
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_45
+  native: dump.deform375_10e7_5aniso_13_45
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_46
+  native: dump.deform375_10e7_5aniso_13_46
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_47
+  native: dump.deform375_10e7_5aniso_13_47
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_48
+  native: dump.deform375_10e7_5aniso_13_48
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_49
+  native: dump.deform375_10e7_5aniso_13_49
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_5
+  native: dump.deform375_10e7_5aniso_13_5
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_50
+  native: dump.deform375_10e7_5aniso_13_50
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_51
+  native: dump.deform375_10e7_5aniso_13_51
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+  location: https://dl.dropboxusercontent.com/u/22455492/Polymer/aniso/dump.deform375_10e7_5aniso_13
+  viz:
+  - url: http://farm8.staticflickr.com/7349/13249441783_abef096e6f_z.jpg
+    name: []
+  - url: http://farm4.staticflickr.com/3679/13249442163_4a2aec012f_z.jpg
+    name: []
+  - url: http://farm3.staticflickr.com/2827/13249301795_64ea14c8bb_z.jpg
+    name: []
+  - url: http://farm8.staticflickr.com/7308/13249442983_2aacb003af_z.jpg
+    name: []
+- name: dump.deform375_10e7_5aniso_13_52
+  native: dump.deform375_10e7_5aniso_13_52
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_53
+  native: dump.deform375_10e7_5aniso_13_53
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_54
+  native: dump.deform375_10e7_5aniso_13_54
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_55
+  native: dump.deform375_10e7_5aniso_13_55
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_56
+  native: dump.deform375_10e7_5aniso_13_56
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_57
+  native: dump.deform375_10e7_5aniso_13_57
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_58
+  native: dump.deform375_10e7_5aniso_13_58
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_59
+  native: dump.deform375_10e7_5aniso_13_59
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_6
+  native: dump.deform375_10e7_5aniso_13_6
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_60
+  native: dump.deform375_10e7_5aniso_13_60
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_61
+  native: dump.deform375_10e7_5aniso_13_61
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+  location: https://dl.dropboxusercontent.com/u/22455492/Polymer/aniso/dump.deform375_10e7_5aniso_13
+  viz:
+  - url: http://farm3.staticflickr.com/2864/13249443353_a5fa0f0eaa_z.jpg
+    name: []
+  - url: http://farm8.staticflickr.com/7233/13249302645_d1290b60e3_z.jpg
+    name: []
+  - url: http://farm4.staticflickr.com/3741/13249303175_0124e1c93e_z.jpg
+    name: []
+  - url: http://farm3.staticflickr.com/2870/13249642064_4c9e5042e2_z.jpg
+    name: []
+- name: dump.deform375_10e7_5aniso_13_62
+  native: dump.deform375_10e7_5aniso_13_62
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_63
+  native: dump.deform375_10e7_5aniso_13_63
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_64
+  native: dump.deform375_10e7_5aniso_13_64
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_65
+  native: dump.deform375_10e7_5aniso_13_65
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_66
+  native: dump.deform375_10e7_5aniso_13_66
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_67
+  native: dump.deform375_10e7_5aniso_13_67
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_68
+  native: dump.deform375_10e7_5aniso_13_68
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_69
+  native: dump.deform375_10e7_5aniso_13_69
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_7
+  native: dump.deform375_10e7_5aniso_13_7
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_70
+  native: dump.deform375_10e7_5aniso_13_70
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_71
+  native: dump.deform375_10e7_5aniso_13_71
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+  location: https://dl.dropboxusercontent.com/u/22455492/Polymer/aniso/dump.deform375_10e7_5aniso_13
+  viz:
+  - url: http://farm3.staticflickr.com/2865/13249304345_d6e410e036_z.jpg
+    name: []
+  - url: http://farm4.staticflickr.com/3775/13249445413_4a7787595c_z.jpg
+    name: []
+  - url: http://farm8.staticflickr.com/7362/13249643794_c47ea9c417_z.jpg
+    name: []
+  - url: http://farm4.staticflickr.com/3665/13249446393_214e06e72a_z.jpg
+    name: []
+- name: dump.deform375_10e7_5aniso_13_72
+  native: dump.deform375_10e7_5aniso_13_72
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_73
+  native: dump.deform375_10e7_5aniso_13_73
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_74
+  native: dump.deform375_10e7_5aniso_13_74
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_75
+  native: dump.deform375_10e7_5aniso_13_75
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_76
+  native: dump.deform375_10e7_5aniso_13_76
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_77
+  native: dump.deform375_10e7_5aniso_13_77
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_78
+  native: dump.deform375_10e7_5aniso_13_78
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_79
+  native: dump.deform375_10e7_5aniso_13_79
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_8
+  native: dump.deform375_10e7_5aniso_13_8
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_80
+  native: dump.deform375_10e7_5aniso_13_80
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_81
+  native: dump.deform375_10e7_5aniso_13_81
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+  location: https://dl.dropboxusercontent.com/u/22455492/Polymer/aniso/dump.deform375_10e7_5aniso_13
+  viz:
+  - url: http://farm4.staticflickr.com/3683/13249644504_b3f295fbfb_z.jpg
+    name: []
+  - url: http://farm4.staticflickr.com/3744/13249447113_77deb0233b_z.jpg
+    name: []
+  - url: http://farm3.staticflickr.com/2876/13249447623_a4f60af232_z.jpg
+    name: []
+  - url: http://farm3.staticflickr.com/2862/13249448253_fd373c17a5_z.jpg
+    name: []
+- name: dump.deform375_10e7_5aniso_13_82
+  native: dump.deform375_10e7_5aniso_13_82
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_83
+  native: dump.deform375_10e7_5aniso_13_83
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_84
+  native: dump.deform375_10e7_5aniso_13_84
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_85
+  native: dump.deform375_10e7_5aniso_13_85
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_86
+  native: dump.deform375_10e7_5aniso_13_86
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_87
+  native: dump.deform375_10e7_5aniso_13_87
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_88
+  native: dump.deform375_10e7_5aniso_13_88
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_89
+  native: dump.deform375_10e7_5aniso_13_89
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_9
+  native: dump.deform375_10e7_5aniso_13_9
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_90
+  native: dump.deform375_10e7_5aniso_13_90
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_91
+  native: dump.deform375_10e7_5aniso_13_91
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+  location: https://dl.dropboxusercontent.com/u/22455492/Polymer/aniso/dump.deform375_10e7_5aniso_13
+  viz:
+  - url: http://farm3.staticflickr.com/2876/13249448693_051e16125a_z.jpg
+    name: []
+  - url: http://farm8.staticflickr.com/7430/13249308335_4888666d66_z.jpg
+    name: []
+  - url: http://farm4.staticflickr.com/3744/13249647454_2ff1e54f9f_z.jpg
+    name: []
+  - url: http://farm3.staticflickr.com/2842/13249450403_b5e4ee586a_z.jpg
+    name: []
+- name: dump.deform375_10e7_5aniso_13_92
+  native: dump.deform375_10e7_5aniso_13_92
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_93
+  native: dump.deform375_10e7_5aniso_13_93
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_94
+  native: dump.deform375_10e7_5aniso_13_94
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_95
+  native: dump.deform375_10e7_5aniso_13_95
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_96
+  native: dump.deform375_10e7_5aniso_13_96
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_97
+  native: dump.deform375_10e7_5aniso_13_97
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+- name: dump.deform375_10e7_5aniso_13_98
+  native: dump.deform375_10e7_5aniso_13_98
+  description: []
+  output:
+  - {native: index}
+  - {native: chainid}
+  - {native: atomtrait}
+  - {native: X}
+  - {native: Y}
+  - {native: Z}
+  location: https://dl.dropboxusercontent.com/u/22455492/Polymer/aniso/dump.deform375_10e7_5aniso_13
+  viz:
+  - url: http://farm4.staticflickr.com/3829/13249309605_70a318802a_z.jpg
+    name: []
+  - url: http://farm4.staticflickr.com/3781/13249649164_15de9d75be_z.jpg
+    name: []
+  - url: http://farm4.staticflickr.com/3823/13249451623_84e70aeff0_z.jpg
+    name: []
+  - url: http://farm4.staticflickr.com/3688/13249650394_9de6ff3961_z.jpg
+    name: []
+dict: polyer-md-sim
+---
