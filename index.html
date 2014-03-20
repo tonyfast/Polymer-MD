@@ -12,8 +12,13 @@ title: Everything starts from something
 <div id="home">
   <ul class="posts">
     {% for post in site.posts %}
+    
       <li><span>{{ post.date | date_to_string }}</span> &raquo; 
-      <code style="background-color:rgb(220,220,220);">{{post.layout}}</code> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+      <code style="background-color:rgb(220,220,220);">{{post.layout}}</code> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+      {% if post.layout =='dataset' or post.layout =='dictionary' %}
+       <code><a href="https://github.com/tonyfast{{site.baseurl}}/edit/gh-pages/{{post.path}}">[edit]</a> </code>
+       {% endif %}
+  </li>
     {% endfor %}
   </ul>
 </div>
