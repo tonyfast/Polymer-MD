@@ -2,6 +2,7 @@
 layout: analytics
 title: Principal Component Analysis of the Simulations
 ---
+
 <!DOCTYPE html
   PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html><head>
@@ -83,7 +84,7 @@ close <span class="string">all</span>
 </pre><pre class="codeoutput">
 ans =
 
-  175.0063
+  175.0073
 
 </pre><h2>Create Plotly<a name="3"></a></h2><div><ul><li>Download plot.ly <a href="https://plot.ly/api/MATLAB/getting-started/installation">Matlab Api</a></li><li>Follow the <a href="https://plot.ly/api/MATLAB/getting-started">Getting Started</a> instructions.</li></ul></div><pre class="codeinput">plotdata{1} = struct;
 co = cbrewer( <span class="string">'qual'</span>,<span class="string">'Paired'</span>,20);
@@ -112,13 +113,9 @@ layout = struct( <span class="string">'showlegend'</span> , true, <span class="k
     );
 
 <span class="comment">% response = plotly( plotdata, struct('layout',layout) );</span>
-</pre><pre class="codeoutput"> 
-----------------------------------------------------------------------
-The maximum number of colors for table *Paired* is 12
-The new colormap will be extrapolated from these 12 values
-----------------------------------------------------------------------
+</pre>
  
-</pre><p><a href="html">html</a> <a href="iframe">height="600" id="igraph" scrolling="no" seamless="seamless" src="https://plot.ly/~TonyFast/8" width="100%"</a>&lt;/iframe&gt; <a href="/html">/html</a> This plot shows the PCA embedding of some of the Polymer Molecular Dynamics Simulations.</p><p class="footer"><br><a href="http://www.mathworks.com/products/matlab/">Published with MATLAB&reg; R2013a</a><br></p></div><!--
+<iframe height="600" id="igraph" scrolling="no" seamless="seamless" src="https://plot.ly/~TonyFast/8" width="100%"></iframe>
 ##### SOURCE BEGIN #####
 %% Principal Components Analysis of Polymer Molecular Dynamics Simulations
 %
@@ -188,6 +185,7 @@ layout = struct( 'showlegend' , true, ...
 % response = plotly( plotdata, struct('layout',layout) );
 
 %% 
+%
 % <html>
 % <iframe height="600" id="igraph" scrolling="no" seamless="seamless" src="https://plot.ly/~TonyFast/8" width="100%"></iframe>
 % </html>
