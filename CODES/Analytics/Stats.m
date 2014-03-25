@@ -9,7 +9,7 @@ for ii = 1 : numel(ff)
     
     load( horzcat( conv_data_loc, ff(ii).name), 'lims', 'N' );
     load( horzcat( dist_data_loc, ff(ii).name), 'xx' );
-    ll = [ min( lims(:,1), ll(:,1)) max( lims(:,2), ll(:,2)) ];
+    ll = [ min( lims(:,1), ll(:,1)) max( lims(:,2), ll(:,2)) ];ll
 end
 %%
 
@@ -40,7 +40,7 @@ for ii = numel(ff)
 %     
     I = sub2ind( ss, -1*dX(1,B,1) + ms(1)./dx(1)+1, -1*dX(1,B,2) + ms(2)./dx(2)+1, -1*dX(1,B,3) + ms(3)./dx(3)+1 );    
     F(:) = F(:) + accumarray( I', ones( size(I') ), [  prod( ss ) 1], @sum, 0 );
-    return
+    
 
 end
     

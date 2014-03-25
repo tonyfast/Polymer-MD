@@ -115,7 +115,7 @@ text(U2(:,1),U2(:,2), U2(:,3), num2str(info(vals,2)))
 hold off
 
 info2 = info(vals,:);
-save ./PCA_embed U2 info2
+save ./PCA_embed.mat U2 info2
 % dcm = datacursormode;
 % set(dcm,'UpdateFcn',@(x,y)view_molecules(x,y,U2, AA))
 return
